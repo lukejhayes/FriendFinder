@@ -1,7 +1,7 @@
-// Pull in required dependencies
+// Required dependencies
 var path = require('path');
 
-// Export HTML routes
+// Exports HTML routes
 module.exports = function(app) {
 	// Home page
 	app.get('/', function(req, res) {
