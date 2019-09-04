@@ -3,7 +3,7 @@ In this activity, I built a compatibility-based "FriendFinder" application -- ba
 
 ## Deployed Heroku Link: https://whispering-bastion-84089.herokuapp.com/
 
-### Languages / Programs 
+### Languages & Programs Used:
 * Node.js web server
 * Vue.js front-end framework
 * mySQL Database using Express to handle routing
